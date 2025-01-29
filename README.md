@@ -1,1 +1,1 @@
-# Stock-price-prediction-uisng-news-headlines-and-sentiment-analysis-using-NLP-techniques
+# Stock-Price-Prediction-using-News-Headlines-Twitter-Sentiment-Analysis-and-Historical-Data
